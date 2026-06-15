@@ -11,9 +11,11 @@ label + .radio-wrapper {
 .radio-inner {
   border: 1px solid var(--stroke-default);
   border-radius: 0.5rem;
+
   display: grid;
   justify-items: center;
   gap: 0.5rem;
+
   padding: 2rem 0.5rem 0.5rem;
 
   position: relative;
